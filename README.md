@@ -19,8 +19,8 @@ Esta es mi solución al [Reto QR code component de Frontend Mentor](https://www.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL de la solución: [frontendmentor.io](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-9DlR-ZykA)
+- URL del proyecto: [sergitxin22.github.io/qr-code-component](https://sergitxin22.github.io/qr-code-component/)
 
 ## Tecnologías
 
