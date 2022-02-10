@@ -12,7 +12,7 @@ body{
     background-color: var(--lightGray);
 }
 
-content{
+#content{
     background-color: var(--white);
     height: 560px;
     width: 360px;
@@ -28,7 +28,7 @@ img{
     border-radius: 30px;
 }
 
-.title{
+#title{
     padding: 0px 36px;
     margin: 10px 0 0 0;
     color: var(--darkBlue);
@@ -37,7 +37,7 @@ img{
     text-align: center;
 }
 
-.description{
+#description{
     padding: 0px 36px;
     color: var(--grayishBlue);
     font-size: 17.5px;
