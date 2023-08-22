@@ -1,4 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+@font-face {
+    font-family: "Outfit";
+    src: 
+        url(../assets/fonts/Outfit.woff) format("woff"),
+        url(../assets/fonts/Outfit.ttf) format("truetype");
+    font-display: swap;
+}
 
 :root{
     --white: hsl(0, 0%, 100%);
