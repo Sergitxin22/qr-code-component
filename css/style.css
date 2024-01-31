@@ -9,7 +9,7 @@
 :root{
     --white: hsl(0, 0%, 100%);
     --lightGray: hsl(212, 45%, 89%);
-    --grayishBlue: hsl(220, 15%, 55%);
+    --grayishBlue: hsl(220 12.27% 48.07%);
     --darkBlue: hsl(218, 44%, 22%);
 }
 
