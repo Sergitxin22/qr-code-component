@@ -1,6 +1,8 @@
 @font-face {
     font-family: "Outfit";
-    src: 
+    src:
+        local("Outfit"),
+        url(../assets/fonts/Outfit.woff2) format("woff2"),
         url(../assets/fonts/Outfit.woff) format("woff"),
         url(../assets/fonts/Outfit.ttf) format("truetype");
     font-display: swap;
