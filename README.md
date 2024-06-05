@@ -15,7 +15,7 @@ Esta es mi solución al [Reto QR code component de Frontend Mentor](https://www.
 
 ### Captura de pantalla
 
-![](./assets/images/screenshot.webp)
+![](./assets/images/screenshot2.webp)
 
 ### Links
 
